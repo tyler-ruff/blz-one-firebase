@@ -1,0 +1,23 @@
+{
+  "name": "blz-one-firebase",
+  "version": "1.0.0",
+  "description": "Blazed One firebase main site",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build complete\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-ruff/blz-one-firebase.git"
+  },
+  "author": "blazed-space",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyler-ruff/blz-one-firebase/issues"
+  },
+  "homepage": "https://github.com/tyler-ruff/blz-one-firebase#readme",
+  "dependencies": {
+    "blz-fire": "^2.0.4"
+  }
+}
